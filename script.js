@@ -10,10 +10,11 @@ function setInitialCount() {
 
 function increment() {
   count++;
-  setCount();
   if (count > 10) {
-    alert("Stoppppppppppp");
+    alert("Stop incriment");
+    return;
   }
+  setCount();
 }
 
 setInitialCount();
