@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 20px;
+    background-color: rgb(141, 211, 188);
+}
+#input-box{
+    padding: 10px;
+    background-color: rgb(212, 197, 179);
+}
+
+#add-btn{
+    padding: 10px;
+    width: 80px;
+    background-color: blueviolet;
+   
+}
+
+h2{
+    width: auto;
+    padding: 5px;
+    background-color: brown;
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+}
+#main{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+
